@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\callor\\Documents\\AndroidStudioProjects\\android-Camera2Raw\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_camera2_basic.xml",
+        "source": "C:\\Users\\callor\\Documents\\AndroidStudioProjects\\android-Camera2Raw\\app\\src\\main\\res\\layout-land\\fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\callor\\Documents\\AndroidStudioProjects\\android-Camera2Raw\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_camera2_basic.xml",
+        "source": "C:\\Users\\callor\\Documents\\AndroidStudioProjects\\android-Camera2Raw\\Application\\src\\main\\res\\layout-land\\fragment_camera2_basic.xml"
+    }
+]
